@@ -1,0 +1,160 @@
+/* Enter your Styles below! */
+
+
+body { 
+	font-family: Helvetica, sans-serif;
+	font-size: 16px;
+	
+}
+
+
+
+
+section {
+	margin-top: 41px;
+}
+
+h1, h2, h3, h4 {
+	font-family: 'Quicksand', sans-serif;
+	text-align: center;
+	text-decoration-style: bold;
+
+}
+
+h1 {
+	font-size: 48px;
+	color: white;
+	text-align: center;
+	padding-top: 80px;
+	background-color: #94CFFF;
+	padding: 20px;
+	position: relative;
+	text-align: center;
+}
+
+.pizza {
+	background-image: url(../images/pizza.png);
+	background-size: cover;
+	width: 100%;
+	height: 70vh;
+
+}
+
+
+
+
+.rounded-box{
+	background-color: #245680;
+	padding: 40px;
+	border-radius: 12px;
+	display: inline-block;
+	margin: 40px;
+}
+
+.about {
+	padding: 60px;
+}
+h2 {
+	font-size: 36px;
+}
+
+h3 {
+	font-size: 28px;
+}
+h4 {
+	font-size: 24px;
+}
+
+p, article, ul {
+	font-family: 'Zilla Slab', serif;
+
+}
+
+img {
+	height: : 60vh;
+}
+
+.arcade{
+	text-align: right;
+	padding: 20px;
+}
+
+blockquote {
+	margin: 20px 60px;
+	font-family: 'Zilla Slab', serif;
+	text-align: center;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: #245680;
+	font-family: 'Zilla Slab', serif;
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+nav li {
+	float: left;
+}
+
+nav li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+
+}
+
+/* Change the link color to #111 (black) on hover */
+nav li a:hover {
+	background-color: #94CFFF;
+}
+
+div{
+	display: flex;
+	flex: 1;
+	padding-left: 20px;
+}
+
+.grid{
+	width: 60%;
+	margin: auto;
+
+}
+
+.div {
+	background-color: #ccc;
+	padding: 20px;
+	
+}
+
+.grid-3 {
+	width: 60%;
+	margin: auto;
+	
+}
+
+.grid-3 div {
+	background-color: #ccc;
+	padding: 20px;
+}
+
+
+.about{
+	background-color: white;
+	padding: 40px;
+	border-radius: 12px;
+	display: inline-block;
+	margin: 40px;
+}
+
+
+/*
+font-family: 'Mansalva', cursive;
+font-family: 'Dosis', sans-serif;
+font-family: 'Indie Flower', cursive;
+*/
